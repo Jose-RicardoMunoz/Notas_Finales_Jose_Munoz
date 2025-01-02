@@ -26,3 +26,6 @@ El producto es una página web funcional que:
 📈 Calcula y muestra los promedios de manera precisa.
 🧹 Cumple con los estándares de código limpio y legible.
 📦 Este proyecto puede ser comprimido y subido al LMS como un archivo .zip, facilitando su evaluación y uso posterior.
+
+![image](https://github.com/user-attachments/assets/2874646d-7f7f-4972-8dc2-776a7d464613) 
+
