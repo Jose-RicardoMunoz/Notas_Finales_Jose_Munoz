@@ -1,0 +1,15 @@
+body{
+    background-color: #e7db33; /* Fondo cuerpo */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Centrado */
+    margin: 0 0 0 0;
+}
+
+.table thead th {
+    background-color: #4e4e4e; /* Color verde */
+    color: white; /* Texto en blanco */
+}
