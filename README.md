@@ -29,3 +29,4 @@ El producto es una página web funcional que:
 
 ![image](https://github.com/user-attachments/assets/2874646d-7f7f-4972-8dc2-776a7d464613) 
 
+![image](https://github.com/user-attachments/assets/09f505e7-a34e-4ea8-b8e2-6807ecb1c252)
